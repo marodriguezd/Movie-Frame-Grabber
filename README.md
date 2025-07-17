@@ -1,12 +1,12 @@
-# Movie Frame Grabber 🎬
+# FrameFlow 🎬
 
 A simple, powerful, browser-based tool to extract frames from video files at a specified interval and download them as a ZIP archive. Everything is processed locally in your browser for maximum privacy and speed.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-### ✨ [Live Demo Here](https://marodriguezd.github.io/Movie-Frame-Grabber/)
+### ✨ [Live Demo Here](https://marodriguezd.github.io/FrameFlow/)
 
-![Movie Frame Grabber Screenshot](https://raw.githubusercontent.com/marodriguezd/Movie-Frame-Grabber/main/demo-screenshot.png)
+![FrameFlow Screenshot](https://raw.githubusercontent.com/marodriguezd/FrameFlow/main/demo-screenshot.png)
 
 ## 🚀 Features
 
@@ -30,4 +30,4 @@ A simple, powerful, browser-based tool to extract frames from video files at a s
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/marodriguezd/Movie-Frame-Grabber.git
+   git clone https://github.com/marodriguezd/FrameFlow.git
